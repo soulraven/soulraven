@@ -19,5 +19,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" width="auto" height="50px"> 
 
 ## My GitHub Stats
-[![SoulRaven's github stats](https://github-readme-stats.vercel.app/api?username=soulraven&count_private=true)](https://github.com/soulraven/github-readme-stats)
+[![SoulRaven's github stats](https://github-readme-stats.vercel.app/api?username=soulraven&count_private=true&show_icons=true)](https://github.com/soulraven/github-readme-stats)
 
