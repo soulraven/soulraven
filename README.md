@@ -31,7 +31,7 @@
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[![SoulRaven's github stats](https://github-readme-stats.vercel.app/api?username=soulraven&count_private=true&show_icons=true&show_owner=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![SoulRaven's github stats](https://github-readme-stats.vercel.app/api?username=soulraven&&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![SoulRaven's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulraven&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
