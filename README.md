@@ -28,6 +28,8 @@
 <a target="_blank" href="https://www.paypal.com/paypalme/tntsoulraven">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" width="auto" height="50px"> 
 
+---
+
 ## &#x1f4c8; My GitHub Stats
 [![SoulRaven's github stats](https://github-readme-stats.vercel.app/api?username=soulraven&count_private=true&show_icons=true&show_owner=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
