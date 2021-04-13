@@ -1,5 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am SoulRaven!
 
+---
+
+🧰 Toolbox
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="CSS" width="50" height="50"/>
+
 ## Get in touch
 
 <a href = "mailto:madalinaeleonora.gheorghe@gmail.com">
