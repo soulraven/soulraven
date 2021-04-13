@@ -1,3 +1,5 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am SoulRaven!
+
 ## Get in touch
 
 <a href = "mailto:madalinaeleonora.gheorghe@gmail.com">
